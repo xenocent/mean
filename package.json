@@ -1,0 +1,18 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "testing some No SQL - Express - Angular - Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~4.16.0",
+    "mongoose": "~5.2.13",
+    "cors": "~2.8.4",
+    "body-parser": "~1.18.3"
+  },
+  "author": "Budi Setiawan Tanjung",
+  "license": "ISC"
+}
